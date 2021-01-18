@@ -1,2 +1,0 @@
-# Quicksort Analysis
- Quicksort Analysis
